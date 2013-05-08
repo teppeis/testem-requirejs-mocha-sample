@@ -1,0 +1,32 @@
+{
+  "name": "testem-requirejs-mocha-sample",
+  "version": "0.0.0",
+  "description": "Sample project for Testem, RequireJS and Mocha",
+  "scripts": {
+    "test": "./node_modules/testem/testem.js -l PhantomJS ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teppeis/testem-requirejs-mocha-sample.git"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "testem",
+    "requirejs",
+    "mocha"
+  ],
+  "author": "Teppei Sato <teppeis@gmial.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "49eb28d64442371042c5aabe34174f600446e132",
+  "bugs": {
+    "url": "https://github.com/teppeis/testem-requirejs-mocha-sample/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "testem": "~0.2.95"
+  }
+}
