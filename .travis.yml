@@ -3,13 +3,8 @@ node_js:
     - "0.10"
 env:
     - DISPLAY=:99.0
-before_install:
-    - sh -e /etc/init.d/xvfb start
 before_script:
     - npm install bower
     - ./node_modules/bower/bin/bower install
-    # for Firefox testing
     - sh -e /etc/init.d/xvfb start
-    - sleep 3
-    - rackup
     - sleep 3
