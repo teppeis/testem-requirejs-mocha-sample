@@ -23,10 +23,8 @@
   "bugs": {
     "url": "https://github.com/teppeis/testem-requirejs-mocha-sample/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.1",
     "testem": "~0.2.95"
   }
 }
