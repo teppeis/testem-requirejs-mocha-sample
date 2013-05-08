@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Sample project for Testem, RequireJS and Mocha",
   "scripts": {
-    "test": "./node_modules/testem/testem.js -l PhantomJS ci"
+    "test": "./node_modules/testem/testem.js -l PhantomJS,Firefox ci"
   },
   "repository": {
     "type": "git",
