@@ -1,0 +1,4 @@
+framework: mocha
+test_page: test/testem.html
+src_files:
+    - test/**/*.js

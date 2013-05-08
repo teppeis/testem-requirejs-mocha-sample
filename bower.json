@@ -1,0 +1,16 @@
+{
+  "name": "testem-requirejs-mocha-sample",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.5"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "expect": "~0.2.0"
+  }
+}
