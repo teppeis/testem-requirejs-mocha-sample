@@ -7,10 +7,10 @@
     "components"
   ],
   "dependencies": {
-    "requirejs": "~2.1.5"
+    "requirejs": "~2.1.10"
   },
   "devDependencies": {
-    "mocha": "~1.9.0",
+    "mocha": "~1.17.1",
     "expect": "~0.2.0"
   }
 }
