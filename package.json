@@ -25,6 +25,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "testem": "~0.2.95"
+    "testem": "~0.6.7"
   }
 }
