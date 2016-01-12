@@ -1,6 +1,13 @@
 language: node_js
 node_js:
     - "0.10"
+    - "0.12"
+    - "4.0"
+    - "stable"
+sudo: false
+cache:
+  directories:
+    - node_modules
 env:
     - DISPLAY=:99.0
 before_script:
