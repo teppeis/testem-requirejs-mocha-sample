@@ -1,6 +1,8 @@
 testem-requirejs-mocha-sample [![Build Status](https://travis-ci.org/teppeis/testem-requirejs-mocha-sample.png?branch=master)](https://travis-ci.org/teppeis/testem-requirejs-mocha-sample)
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/teppeis/testem-requirejs-mocha-sample.svg)](https://greenkeeper.io/)
+
 Sample project for:
 
 * [Testem](https://github.com/airportyh/testem)
